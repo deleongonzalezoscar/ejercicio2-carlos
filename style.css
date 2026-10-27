@@ -40,3 +40,70 @@ h2{
     background-color: white;
     padding: 20px;
 }
+#aficiones{
+    background-color: mistyrose;
+    padding: 20px;
+}
+
+#aficiones h2{
+    color: darkred;
+    border-bottom: 2px solid darkred;
+}
+
+.aficion{
+    background-color: white;
+    border: 1px solid red;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+}
+
+#aficiones h3{
+    color: darkred  ;
+    font-size: 20px;
+
+}
+
+#aficiones p{
+    color: black;
+}
+
+#enlaces {
+    background-color: lightgreen;
+    padding: 20px;
+
+}
+
+#enlaces h2{
+    color: darkgreen;
+    border-bottom: 2px solid darkgreen;
+
+}
+
+.enlaces{
+    background-color: white;
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+}
+
+#enlaces a {
+    color: green;
+    font-weight: bold;
+}
+
+#enlaces p {
+    color: black;
+}
+
+footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    color: white;
+}
